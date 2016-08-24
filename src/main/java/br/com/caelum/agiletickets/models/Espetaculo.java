@@ -31,8 +31,7 @@ public class Espetaculo {
 	private String nome;
 
 	private String descricao;
-	
-	private EntityManager manager;
+
 
 	@Enumerated(EnumType.STRING)
 	private TipoDeEspetaculo tipo;

@@ -100,4 +100,18 @@ public class EspetaculoTest {
 		
 	}
 	
+	/*@Test
+	public void deveCriar2SessoesDiarisSeInicioDiferenteFim(){
+		Espetaculo rui = new Espetaculo();
+		LocalDate inicio = new LocalDate();
+		LocalDate fim = new LocalDate();
+		LocalTime horario = new LocalTime();	
+		Periodicidade periodicidade=Periodicidade.DIARIA;
+		
+		List <Sessao> sessoes=rui.criaSessoes(inicio, fim, horario, periodicidade);
+		
+		Assert.a
+		
+	}*/
+	
 }
